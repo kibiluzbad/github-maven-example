@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.kibiluzbad</groupId>
 	<artifactId>github-maven-example</artifactId>
-	<version>0.2-SNAPSHOT</version>
+	<version>0.2</version>
 	<name>GitHub Maven Plugin Example</name>
 	<description>Project to demonstrate GitHub Maven plugins</description>
 	<url>https://github.com/kibiluzbad/github-maven-example</url>
@@ -21,7 +21,7 @@
 		<url>https://github.com/kibiluzbad/github-maven-example</url>
 		<connection>scm:git:git://github.com/kibiluzbad/github-maven-example.git</connection>
 		<developerConnection>scm:git:git@github.com:kibiluzbad/github-maven-example.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>github-maven-example-0.2</tag>
   </scm>
 	<developers>
 		<developer>
