@@ -1,15 +1,13 @@
-<project 
-	xmlns="http://maven.apache.org/POM/4.0.0" 
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.github.kevinsawicki</groupId>
+	<groupId>com.github.kibiluzbad</groupId>
 	<artifactId>github-maven-example</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<name>GitHub Maven Plugin Example</name>
 	<description>Project to demonstrate GitHub Maven plugins</description>
-	<url>https://github.com/kevinsawicki/github-maven-example</url>
+	<url>https://github.com/kibiluzbad/github-maven-example</url>
 	<issueManagement>
-		<url>https://github.com/kevinsawicki/github-maven-example/issues</url>
+		<url>https://github.com/kibiluzbad/github-maven-example/issues</url>
 		<system>GitHub Issues</system>
 	</issueManagement>
 	<licenses>
@@ -20,16 +18,17 @@
 		</license>
 	</licenses>
 	<scm>
-		<url>https://github.com/kevinsawicki/github-maven-example</url>
-		<connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>
-		<developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
-	</scm>
+		<url>https://github.com/kibiluzbad/github-maven-example</url>
+		<connection>scm:git:git://github.com/kibiluzbad/github-maven-example.git</connection>
+		<developerConnection>scm:git:git@github.com:kibiluzbad/github-maven-example.git</developerConnection>
+	  <tag>github-maven-example-0.1</tag>
+  </scm>
 	<developers>
 		<developer>
-			<email>kevinsawicki@gmail.com</email>
+			<email>kibiluzbad@gmail.com</email>
 			<name>Kevin Sawicki</name>
-			<url>https://github.com/kevinsawicki</url>
-			<id>kevinsawicki</id>
+			<url>https://github.com/kibiluzbad</url>
+			<id>kibiluzbad</id>
 		</developer>
 	</developers>
 	<properties>
